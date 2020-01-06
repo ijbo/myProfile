@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Jyoti Bose"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg"
   bio              : "My Work Life Balance"
   location         : "Pune, MH, India"
   email            :
