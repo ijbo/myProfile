@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Learning never exhausts the mind. – Leonardo da Vinci"
+title                    : "HOME"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Learning never exhausts the mind. – Leonardo da Vinci"
 name                     : "Jyoti Bose"
 description              : "My Work Life Balance"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
