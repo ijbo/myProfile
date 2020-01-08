@@ -1,11 +1,10 @@
 ---
-title: "About"
 permalink: /about/
 header:
   image: "/images/zakim.jpg"
 ---
 
-<span style="color:#5E5D7E">Summary</span>
+<span style="color:#5E5D7E;font-size: 15pt">Summary</span>
 <dl>
   <dd>Organize, Visualize, Understand & Presage customer data.</dd>
   <dd>Connect Business with AI & Machine Learning pipelines to expand on Volume, Velocity and Variety.</dd>
