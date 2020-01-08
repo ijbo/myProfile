@@ -16,6 +16,8 @@ header:
   <dd>COMCAST, SPRINT, ISRO, INTEL, VMWARE, DELL</dd>
 </dl>
 
+<span style="color:blue">some *This is Blue italic.* text</span>
+
 #Your Name
 1234 Main St., City, State 12345
 (555) 555-5555
