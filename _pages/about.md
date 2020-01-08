@@ -5,9 +5,9 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-Organize, Visualize, Understand & Presage customer data. 
-Connect Business with AI & Machine Learning pipelines to expand on Volume, Velocity and Variety.
-Customers: COMCAST, SPRINT, ISRO, INTEL, VMWARE, DELL
+### Organize, Visualize, Understand & Presage customer data. 
+### Connect Business with AI & Machine Learning pipelines to expand on Volume, Velocity and Variety.
+### Customers: COMCAST, SPRINT, ISRO, INTEL, VMWARE, DELL
 
 #Your Name
 1234 Main St., City, State 12345
@@ -19,7 +19,8 @@ http://www.linkedin.com/in/yourname
 #Summary
 Organize, Visualize, Understand & Presage customer data. 
 Connect Business with AI & Machine Learning pipelines to expand on Volume, Velocity and Variety.
- 
+Customers: COMCAST, SPRINT, ISRO, INTEL, VMWARE, DELL
+
 #Work Experience (only last 12 years)
  
 ## Calsoft (City, State)
