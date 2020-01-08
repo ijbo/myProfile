@@ -17,11 +17,12 @@ http://www.example.com
 http://www.linkedin.com/in/yourname
  
 #Summary
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+Organize, Visualize, Understand & Presage customer data. 
+Connect Business with AI & Machine Learning pipelines to expand on Volume, Velocity and Variety.
  
-#Work Experience (only last 10 years)
+#Work Experience (only last 12 years)
  
-## Company Name 1 (City, State)
+## Calsoft (City, State)
 *[Company 1][] description, particularly if not well-known.*
 **Position Title (include alternate titles in parentheses)** (Start Date - End Date)
 Summary of your role
@@ -30,7 +31,7 @@ Summary of your role
 - Accomplishment
 - Accomplishment
  
-## Company Name 2 (City, State)
+## Amdocs (City, State)
 *[Company 2][] description, particularly if not well-known.*
 **Position Title (include alternate titles in parentheses)** (Start Date - End Date)
 Summary of your role
@@ -39,16 +40,10 @@ Summary of your role
 - Accomplishment
 - Accomplishment
  
-## Company Name 3 (City, State)
-*[Company 3][] description, particularly if not well-known.*
-**Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+## CG-Coreel (Pune, MH)
+*[CG-Coreel][] Works in Satellite Communication joitly with Astra Microwaves and ISRO*
+**Software Engg.** (2007 - 2009)
 Summary of your role
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
- 
-[Company 1]: http://www.example.com/company1
-[Company 2]: http://www.example.com/company2
-[Company 3]: http://www.example.com/company2
-
+- Demand Assigned Multiple Access a system for voice and data communication through Satellite.
+- Worked as a part of a team to create a Software HUB for voice and data transmission and monitoring.
+- Provided onsite operational support of the system to ISRO.
