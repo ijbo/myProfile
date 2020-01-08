@@ -6,16 +6,15 @@ header:
 ---
 
 <dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+  <dt>Summary </dt>
+  <dd>Organize, Visualize, Understand & Presage customer data.</dd>
+  <dd>Connect Business with AI & Machine Learning pipelines to expand on Volume, Velocity and Variety.</dd>
 </dl>
 
-### Organize, Visualize, Understand & Presage customer data. 
-### Connect Business with AI & Machine Learning pipelines to expand on Volume, Velocity and Variety.
-### Customers: COMCAST, SPRINT, ISRO, INTEL, VMWARE, DELL
+<dl>
+  <dt>Customers </dt>
+  <dd>COMCAST, SPRINT, ISRO, INTEL, VMWARE, DELL</dd>
+</dl>
 
 #Your Name
 1234 Main St., City, State 12345
