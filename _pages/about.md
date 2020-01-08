@@ -4,18 +4,18 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-<span style="color:#5E5D7E;font-size: 35pt">Summary</span>
+<span style="color:#292f33;font-size: 25pt">Summary</span>
 <dl>
   <dd>Organize, Visualize, Understand & Presage customer data.</dd>
   <dd>Connect Business with AI & Machine Learning pipelines to expand on Volume, Velocity and Variety.</dd>
 </dl>
 
-<span style="color:#5E5D7E;font-size: 35pt">Customer</span>
+<span style="color:#292f33;font-size: 25pt">Customer</span>
 <dl>
   <dd>COMCAST, SPRINT, ISRO, INTEL, VMWARE, DELL</dd>
 </dl>
 
-#Work Experience (only last 12 years)
+<span style="color:#5E5D7E;font-size: 35pt">Work Experience (only last 12 years)</span>
  
 ## Calsoft (City, State)
 *[Company 1][] description, particularly if not well-known.*
