@@ -5,6 +5,14 @@ header:
   image: "/images/zakim.jpg"
 ---
 
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
 ### Organize, Visualize, Understand & Presage customer data. 
 ### Connect Business with AI & Machine Learning pipelines to expand on Volume, Velocity and Variety.
 ### Customers: COMCAST, SPRINT, ISRO, INTEL, VMWARE, DELL
